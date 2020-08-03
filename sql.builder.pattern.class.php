@@ -26,7 +26,7 @@ interface SQLBuilder
  * Each type of Builder matchs to a relative SQL syntax and may implement
  * the builder steps differently from the others.
  *
- * Below Builder build SQL queries for MySQL engine.
+ * Below Builder builds SQL queries for MySQL engine.
  */
 class MySQLBuilder implements SQLBuilder
 {
