@@ -2,6 +2,7 @@
 
 namespace Lermos\Builder\SQLBuilder;
 
+
 /*
  * The Builder interface with the set of methods.
  * It assembles an SQL query.
