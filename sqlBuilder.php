@@ -142,4 +142,5 @@ echo "\n\n";
 
 echo "PostgresSQL query builder:\n";
 clientSide(new PostgresQueryBuilder);
-?>
+
+
